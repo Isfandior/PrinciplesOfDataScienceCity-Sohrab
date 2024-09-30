@@ -6,7 +6,7 @@ id: Principles of Data Science
 
 _Important: Please Add you name and City email address below and stage/commit/push to your Github repo._
 
-## Name: Sohrab Tellaie
+## Name: Sohrab Tellaie/Isfandior
 
 ## City Email: sohrab.tellaie.2@city.ac.uk
 
