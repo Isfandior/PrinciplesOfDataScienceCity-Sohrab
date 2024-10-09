@@ -12,4 +12,3 @@ with open(filename, 'r') as f:
         row_count += 1
 
 print(f'Number of rows: {row_count}')
-
