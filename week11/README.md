@@ -1,5 +1,7 @@
 ---
 id: litvis
+email: sohrab.tellaie.2@city.ac.uk
+
 ---
 
 @import "../css/datavis.less"
